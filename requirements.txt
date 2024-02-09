@@ -1,0 +1,10 @@
+asgiref==3.7.2
+cffi==1.16.0
+cryptography==41.0.7
+Django==5.0.1
+django-debug-toolbar==4.2.0
+django-phonenumber-field==7.3.0
+pycparser==2.21
+PyMySQL==1.1.0
+setuptools==69.0.3
+sqlparse==0.4.4
